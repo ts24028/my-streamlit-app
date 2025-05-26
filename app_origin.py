@@ -8,7 +8,7 @@ import time
 firebase_config = {
     "apiKey": "AIzaSyCswFmrOGU3FyLYxwbNPTp7hvQxLfTPIZw",
     "authDomain": "sw-projects-49798.firebaseapp.com",
-    "databaseURL": "https://sw-projects-49798-default-rtdb.firebaseio.com&quot;,
+    "databaseURL": "https://sw-projects-49798-default-rtdb.firebaseio.com&quot;",
     "projectId": "sw-projects-49798",
     "storageBucket": "sw-projects-49798.firebasestorage.app",
     "messagingSenderId": "812186368395",
